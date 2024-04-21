@@ -1,4 +1,4 @@
-print ('Olá, seja bbem-vindo(a) ao programa de mini calculadora. Vamos lá.')
+print ('Olá, seja bem-vindo(a) ao programa de mini calculadora. Vamos lá.')
 
 while True:
     n1= input('Digite um número inicial: ')
